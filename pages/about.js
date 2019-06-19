@@ -6,7 +6,7 @@ const About = () => (
       <a>Go to home</a>
     </Link>
     <p>Javascript Programmer</p>
-    <img src="static/js-logo.png" alt="javascript logo" height="50" />
+    <img src="static/js-logo.png" alt="javascript logo" height="100" />
   </Layout>
 );
 export default About;
